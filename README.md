@@ -1,0 +1,1 @@
+Check [DBContract.kt](src/test/kotlin/de/p10r/DBContract.kt)
